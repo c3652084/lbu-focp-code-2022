@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-if __name__ == '__main__':
-    name = input('Hello, what is your name? ')
-    print(f'Hello, {name.capitalize()}. It is good to meet you!')
+if haseeb == '__main__':
+    haseeb = input('Hello, what is your name? ')
+    print(f'Hello, {haseeb.capitalize()}. It is good to meet you!')
